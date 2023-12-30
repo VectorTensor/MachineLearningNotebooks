@@ -15,4 +15,4 @@ There are two wine classifier one using [SVM](https://github.com/VectorTensor/Ma
 The Logistic regression one is deployed.
 
 ## Sentiment analysis
-There a single sentiment classifier that classifies positive and negative sentiment [RNN](https://github.com/VectorTensor/MachineLearningNotebooks/blob/main/RNN.ipynb). It is a simple model of GRU. IMDB dataset was used for training.
+There a single sentiment classifier that classifies positive and negative sentiment [RNN](https://github.com/VectorTensor/MachineLearningNotebooks/blob/main/RNN.ipynb). It is a simple model of GRU. IMDB dataset was used for training. It is currently not deployed.
