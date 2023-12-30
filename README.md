@@ -1,5 +1,5 @@
 # Machine Learning Models
-These are the various notebook of the training code used to train the model the model. 
+These are the various notebook of the training code used to train the model. 
 ## Emotion Classification
 There are two emotion classifier :
 
